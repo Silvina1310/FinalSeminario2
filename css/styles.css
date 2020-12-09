@@ -1,0 +1,78 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 04/12/2020, 03:14:35
+    Author     : Sil
+*/
+
+body {
+  padding-top: 15px;
+  padding-bottom: 40px;
+  background-color: #eee;
+}
+
+.container{      /*todo el formulario de contacto*/
+    margin-top: 50px;
+    text-align: center;
+}
+.form-contact {
+  max-width: 330px;
+  padding: 15px;
+  margin: 0 auto;
+}
+.form-contact .form-contact-heading,
+.form-contact .checkbox {
+  margin-bottom: 10px;
+}
+.form-contact .checkbox {
+  font-weight: normal;
+}
+.form-contact .form-control {
+  position: relative;
+  height: auto;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 10px;
+  font-size: 16px;
+}
+.form-contact .form-control:focus {
+  z-index: 2;
+}
+.form-contact input, textarea, button {
+  margin: 5px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.texto{
+    margin-top: 60px;
+    color: black;
+    font-size: 15px;
+    font-family: "Consolas", monospace;
+    background-position: center;
+    background-color:#cdf0fa;
+    max-width:max-content;
+    margin-left: 350px;
+    margin-right:250px;
+    text-align: center;
+}
+pre{
+    font-family: "Consolas", monospace;
+    background-color:#cdf0fa;
+    font-size: 15px;
+}
+br{
+    margin-left: 10px;
+    margin-bottom: 0px;
+}
+footer{
+    margin-bottom: 0px;
+    color:#fff;
+    font-family: "Consolas", monospace;
+    text-align: center;
+    font-size: 20px;
+}
+

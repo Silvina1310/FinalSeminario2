@@ -1,0 +1,37 @@
+/*
+ * Silvina Páez
+ */
+
+li{
+   font-family: "Consolas", monospace;  /*letra de inicio y nosotros*/
+}
+.dropdown-toggle{
+font-family: "Consolas", monospace;  /*letra de carrito y registrarse*/
+}
+
+.navbar-brand{          /*esto lo agregue el 2511*/
+   font-family: "Consolas", monospace;
+   font-weight: 700;
+   font-size: 25px;
+   font-style:italic;
+}
+
+.contenedor{
+    margin-right: 0px;
+    width:1600px;
+}
+
+.panel-footer{
+   font-family: "Consolas", monospace;
+   font-weight: 500;   
+   font-size: 17px;
+   font-style:italic;
+   background-color: #333; 
+   text-align:center;  
+}
+
+.footer{
+   color:white;
+}
+
+/* ----------------------------------------------------------------------*/
